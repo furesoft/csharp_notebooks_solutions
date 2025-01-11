@@ -1,0 +1,14 @@
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.AssemblyInfoInputs.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.AssemblyInfo.cs
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.csproj.CoreCompileInputs.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\bin\Debug\net8.0\Highscores.exe
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\bin\Debug\net8.0\Highscores.deps.json
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\bin\Debug\net8.0\Highscores.runtimeconfig.json
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\bin\Debug\net8.0\Highscores.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\bin\Debug\net8.0\Highscores.pdb
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\refint\Highscores.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.pdb
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\Highscores.genruntimeconfig.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Highscores\obj\Debug\net8.0\ref\Highscores.dll
