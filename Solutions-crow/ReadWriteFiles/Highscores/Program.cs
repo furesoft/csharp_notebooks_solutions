@@ -5,21 +5,18 @@ class Program
     static string path = @"D:\test\leaderboard.txt";
     static void Main()
     {
+        GetScores();
+        Console.WriteLine("Enter your name: ");
+        var name = Convert.ToString(Console.ReadLine());
+        Console.WriteLine("Enter your score: ");
+        var score = Convert.ToInt32(Console.ReadLine());
         if (!File.Exists(path)){
-            Console.WriteLine("Enter your name: ");
-            var name = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Enter your score: ");
-            var score = Convert.ToInt32(Console.ReadLine());
+            
             var line = $"{name} - {score}";
             File.WriteAllText(path, line);
         }
         else
         {
-            GetScores();
-            Console.WriteLine("Enter your name: ");
-            var name = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Enter your score: ");
-            var score = Convert.ToInt32(Console.ReadLine());
             var line = $"\n{name} - {score}";
             File.AppendAllText(path, line);
         }

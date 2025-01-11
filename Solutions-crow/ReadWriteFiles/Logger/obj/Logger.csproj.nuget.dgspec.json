@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNET-study\\Solutions-Nico\\ReadWriteFiles\\Logger\\Logger.csproj": {}
+    "D:\\DotNET-study\\csharp_notebooks_solutions\\Solutions-crow\\ReadWriteFiles\\Logger\\Logger.csproj": {}
   },
   "projects": {
-    "D:\\DotNET-study\\Solutions-Nico\\ReadWriteFiles\\Logger\\Logger.csproj": {
+    "D:\\DotNET-study\\csharp_notebooks_solutions\\Solutions-crow\\ReadWriteFiles\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNET-study\\Solutions-Nico\\ReadWriteFiles\\Logger\\Logger.csproj",
+        "projectUniqueName": "D:\\DotNET-study\\csharp_notebooks_solutions\\Solutions-crow\\ReadWriteFiles\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "D:\\DotNET-study\\Solutions-Nico\\ReadWriteFiles\\Logger\\Logger.csproj",
+        "projectPath": "D:\\DotNET-study\\csharp_notebooks_solutions\\Solutions-crow\\ReadWriteFiles\\Logger\\Logger.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNET-study\\Solutions-Nico\\ReadWriteFiles\\Logger\\obj\\",
+        "outputPath": "D:\\DotNET-study\\csharp_notebooks_solutions\\Solutions-crow\\ReadWriteFiles\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
