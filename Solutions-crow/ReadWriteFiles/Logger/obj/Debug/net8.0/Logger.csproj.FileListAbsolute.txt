@@ -1,0 +1,14 @@
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\bin\Debug\net8.0\Logger.exe
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\bin\Debug\net8.0\Logger.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\bin\Debug\net8.0\Logger.pdb
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.pdb
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+D:\DotNET-study\Solutions-Nico\ReadWriteFiles\Logger\obj\Debug\net8.0\ref\Logger.dll
